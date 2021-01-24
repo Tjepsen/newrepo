@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 702F-7577
+
+ Directory of c:\Users\toj\git\myproject
+
+24-01-2021  13:58    <DIR>          .
+24-01-2021  13:58    <DIR>          ..
+24-01-2021  13:58                 0 newfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  229.188.603.904 bytes free
